@@ -1,5 +1,5 @@
 # naive-bayes
-A simple Naive Bayes classifier for nominal data. Completed as coursework for Williams College
+A simple Naive Bayes' classifier for nominal data. Completed as coursework for Williams College
 CS374: Machine Learning.
 
 ## How to Run
