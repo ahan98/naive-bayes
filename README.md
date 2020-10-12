@@ -4,7 +4,7 @@ CS374: Machine Learning.
 
 ## How to Run
 
-`python main.py path/to/data.arff` runs the classifier using `path/to/data.arff`
+`python3 main.py path/to/data.arff` runs the classifier using `path/to/data.arff`
 for the dataset.
 
 Alternatively, you may run the classifer on all `.arff` files via
